@@ -1,6 +1,6 @@
-# flexible-attitude-dynamics
+# Flexible Attitude Dynamics
 
-Flexible Attitude dynamics block in Simulink environment, MATLAB R2020b. The model utilizes modified Rodrigues parameters (MRPs), can be used with any number of elastic modes, and takes the actuator faults and external disturbances into account. 
+Flexible Attitude dynamics block in Simulink environment, MATLAB R2020b. The model utilizes modified Rodrigues parameters (MRPs), can be used with any number of elastic modes, and takes the actuator faults and external disturbances into account. This model can be used for spacecraft with elastic solar pannels, antennas, booms, etc. 
 
 ## File(s)
 
